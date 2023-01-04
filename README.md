@@ -1,3 +1,15 @@
+
+<h1 align="center">Oi 👋, eu sou CLenildo Cardoso</h1>
+<h3 align="center">Apaixonado por Desenvolvimento de Aplicativos Móveis.</h3>
+
+- 🔭 Sou Programador Autônomo com Alguns Projetos já Publicados nas Lojas de Aplicativos. [Simulado Detran - Prova CNH](https://play.google.com/store/apps/details?id=com.simudetran)
+
+- 🌱 Atualmente estou Aprendendo **React e Node JS**
+
+- 💬 Me pergunte sobre **React Native e Desenvolvimento Mobile**
+
+- 📫 Você me acha através do e-mail **clenildo.m.cardoso@gmail.com**
+
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
