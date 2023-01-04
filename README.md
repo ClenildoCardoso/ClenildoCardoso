@@ -4,8 +4,6 @@
 
 - 🔭 Sou Programador Autônomo com Alguns Projetos já Publicados nas Lojas de Aplicativos. [Simulado Detran - Prova CNH](https://play.google.com/store/apps/details?id=com.simudetran)
 
-- 🌱 Atualmente estou Aprendendo **React e Node JS**
-
 - 💬 Me pergunte sobre **React Native e Desenvolvimento Mobile**
 
 - 📫 Você me acha através do e-mail **clenildo.m.cardoso@gmail.com**
