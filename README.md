@@ -2,7 +2,7 @@
 <h1 align="center">Oi 👋, eu sou CLenildo Cardoso</h1>
 <h3 align="center">Apaixonado por Desenvolvimento de Aplicativos Móveis.</h3>
 
-- 🔭 Sou Programador Autônomo, e tenho alguns projetos já publicados nas Lojas de Aplicativos. Ex: [Simulado Detran - Prova CNH](https://play.google.com/store/apps/details?id=com.simudetran)
+- 🔭 Sou Programador Autônomo, e tenho alguns projetos já publicados nas Lojas de Aplicativos.
 
 - 💬 Me pergunte sobre **React Native e Desenvolvimento Mobile**
 
